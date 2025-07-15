@@ -1,3 +1,33 @@
+# 📺 YouTube UI Clone with Tailwind CSS
+
+A responsive and modern front-end clone of YouTube built using **React.js** and **Tailwind CSS**. This project focuses on recreating the core design and layout of YouTube's user interface — ideal for practicing UI/UX skills with utility-first CSS.
+
+---
+
+## 🌟 Features
+
+- ✅ Responsive layout (mobile, tablet, desktop)
+- ✅ Sidebar navigation
+- ✅ Video thumbnails grid layout
+- ✅ Video detail page with title, description.
+- ✅ Clean and minimalist UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – UI library for building components
+- **Tailwind CSS** – Utility-first CSS framework for fast styling
+- **React Router DOM** *(if used)* – For client-side routing
+
+---
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
